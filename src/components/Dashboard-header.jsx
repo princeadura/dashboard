@@ -2,6 +2,7 @@ import { delay } from 'framer-motion'
 import { motion } from 'framer-motion'
 import React, {useState} from 'react'
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai'
+import { Link } from 'react-router-dom'
 
 const Dashboard_header = () => {
   const [nav, setNav] = useState(false)
@@ -16,22 +17,22 @@ const Dashboard_header = () => {
         </div>
         <div className='hidden md:flex items-center gap-16 text-white font-bold roboto text-base'>
           <div>
-          <a href="/"><div>Welcome:Trillionx</div></a>
+          <Link to="/"><div>Welcome:Trillionx</div></Link>
           <div className='bg-[#b18373] w-[15%] h-[3px] rounded-lg'></div>
           </div>
 
           <div>
-          <a href="/pending"><div>Approval</div></a>
+          <Link to="/pending"><div>Approval</div></Link>
           <div className='bg-[#b18373] w-[25%] h-[3px] rounded-lg'></div>
           </div>
 
           <div>
-          <a href="/notification"><div>Notification</div></a>
+          <Link to="/notification"><div>Notification</div></Link>
           <div className='bg-[#b18373] w-[25%] h-[3px] rounded-lg'></div>
           </div>
 
           <div>
-          <a href="/settings"><div>Logout</div></a>
+          <Link to="/settings"><div>Logout</div></Link>
           <div className='bg-[#b18373] w-[25%] h-[3px] rounded-lg'></div>
           </div>
         </div>
@@ -51,22 +52,22 @@ const Dashboard_header = () => {
   transition={{duration:1, delay:1.0,}}
   // onClick={handleNav}
   className={nav? 'fixed bg-[#202d40] w-[100%] h-screen z-[20] top-0 md:hidden' : 'hidden'}>
-    <div className='w-[95%] mx-auto flex flex-col gap-2 items-center justify-center pt-20 text-lg text-white uppercase'>
+    <div className='w-[95%] mx-auto flex flex-col gap-6 items-center justify-center pt-20 text-lg text-white uppercase'>
 
       <div onClick={handleNav} className='absolute top-6 right-6 cursor-pointer'>
         <AiOutlineClose size={25} />
       </div>
 
-        <a href="/"><div className=''>Welcome:Trillion</div></a>
+        <Link onClick={handleNav} to="/"><div className=''>Welcome:Trillion</div></Link>
         <div className='w-2/6 h-[1px] bg-white rounded-full'></div>
-        <a href="/pending"><div className='hover:text-[#b18373]'>Approval</div></a>
-        <a href="/notification"><div className='hover:text-[#b18373]'>Notification</div></a>
-        <a href="/"><div className='hover:text-[#b18373]'>Dashboard</div></a>
-        <a href="/pending"><div className='hover:text-[#b18373]'>Pending Issues</div></a>
-        <a href="transactionHistory"><div className='hover:text-[#b18373]'>Transaction History</div></a>
-        <a href="/settings"><div className='hover:text-[#b18373]'>Settings</div></a>
-        <a href="/settings"><div className='hover:text-[#b18373]'>Log out</div></a>
-        <a href="/settings"><button className='bg-[#b18373] px-3 py-1 rounded-lg cursor-pointer'>ADMIN</button></a>
+        <Link onClick={handleNav} to="/pending"><div className='hover:text-[#b18373]'>Approval</div></Link>
+        <Link onClick={handleNav} to="/notification"><div className='hover:text-[#b18373]'>Notification</div></Link>
+        <Link onClick={handleNav} to="/"><div className='hover:text-[#b18373]'>Dashboard</div></Link>
+        <Link onClick={handleNav} to="/pending"><div className='hover:text-[#b18373]'>Pending Issues</div></Link>
+        <Link onClick={handleNav} to="transactionHistory"><div className='hover:text-[#b18373]'>Transaction History</div></Link>
+        <Link onClick={handleNav} to="/settings"><div className='hover:text-[#b18373]'>Settings</div></Link>
+        <Link onClick={handleNav} to="/settings"><div className='hover:text-[#b18373]'>Log out</div></Link>
+        <Link onClick={handleNav} to="/settings"><button className='bg-[#b18373] px-3 py-1 rounded-lg cursor-pointer'>ADMIN</button></Link>
     </div>
   </motion.div>
    </>
