@@ -3,7 +3,7 @@ import React from 'react'
 const SettingsComp = () => {
   return (
     <>
-    <div className='roboto my-8'>
+    <div className='roboto my-12 md:my-8'>
 
         <div className='p-8 m-2 my-3 account-settings-box rounded-lg relative text-white'>
             <h2 className='text-center my-2 text-2xl font-bold'>Accounts</h2>
