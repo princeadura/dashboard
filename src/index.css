@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.roboto{
+    font-family: 'Lato', sans-serif;
+}
+.bg-blue{
+    background-color: aliceblue;
+}
+.logo-color{
+    color: rgb(248, 248, 18);
+}
+.users-color{
+    color: rgb(165, 165, 12);
+}
+.successful-color{
+    color: green;
+}
+.gray-color{
+    background: rgba(59, 56, 56, 0.3);
+}
+.pending-color{
+    color: red;
+}
+.pending-box-shadow{
+    box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.1);
+}
+.notification-color{
+    background-color: rgb(222, 224, 226);
+}
+.hero-box{
+    box-shadow: rgb(208 205 205) 8px 8px 8px;
+}
+.notification-card-box{
+    box-shadow: 0px 15px 20px 0px rgb(0 0 0 / 20%);
+}
+.transaction-table-border{
+    border: 1px solid rgba(59, 56, 56, 0.3);
+}
+.account-settings-box{
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border: #050661 1px;
+    background-image: linear-gradient(rgb(193, 192, 197), #262627);
+}
+.new-user-box{
+    background-image: linear-gradient(rgb(199, 198, 209), #0206f8);
+}
+.delete-user-box{
+    background-image: linear-gradient(rgb(199, 198, 209), #b30125);
+}
