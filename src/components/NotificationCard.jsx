@@ -29,8 +29,8 @@ const NotificationCard = () => {
         </div>
 
         <div className='flex flex-col gap-1 absolute w-full h-full right-[1px] justify-center items-end opacity-0 hover:opacity-100'>
-            <div className='bg-green-500 opacity-80 p-2 w-8 mr-4 text-center rounded-full flex items-center justify-center'><SiFiles className='text-white'/></div>
-            <div className='bg-red-700 opacity-80 p-2 w-8 mr-4 text-center rounded-full flex items-center justify-center'><ImBin className='text-white'/></div>
+            <div className='bg-green-500 opacity-80 p-2 w-8 text-center rounded-full flex items-center justify-center'><SiFiles className='text-white'/></div>
+            <div className='bg-red-700 opacity-80 p-2 w-8 text-center rounded-full flex items-center justify-center'><ImBin className='text-white'/></div>
         </div>
     </div>
 
@@ -50,8 +50,8 @@ const NotificationCard = () => {
         </div>
 
         <div className='flex flex-col gap-1 absolute w-full h-full right-[1px] justify-center items-end opacity-0 hover:opacity-100'>
-            <div className='bg-green-500 opacity-80 p-2 w-8 mr-4 text-center rounded-full flex items-center justify-center'><SiFiles className='text-white'/></div>
-            <div className='bg-red-700 opacity-80 p-2 w-8 mr-4 text-center rounded-full flex items-center justify-center'><ImBin className='text-white'/></div>
+            <div className='bg-green-500 opacity-80 p-2 w-8 text-center rounded-full flex items-center justify-center'><SiFiles className='text-white'/></div>
+            <div className='bg-red-700 opacity-80 p-2 w-8 text-center rounded-full flex items-center justify-center'><ImBin className='text-white'/></div>
         </div>
     </div>
 
@@ -70,8 +70,8 @@ const NotificationCard = () => {
         </div>
 
         <div className='flex flex-col gap-1 absolute w-full h-full right-[1px] justify-center items-end opacity-0 hover:opacity-100'>
-            <div className='bg-green-500 opacity-80 p-2 w-8 mr-4 text-center rounded-full flex items-center justify-center'><SiFiles className='text-white'/></div>
-            <div className='bg-red-700 opacity-80 p-2 w-8 mr-4 text-center rounded-full flex items-center justify-center'><ImBin className='text-white'/></div>
+            <div className='bg-green-500 opacity-80 p-2 w-8 text-center rounded-full flex items-center justify-center'><SiFiles className='text-white'/></div>
+            <div className='bg-red-700 opacity-80 p-2 w-8 text-center rounded-full flex items-center justify-center'><ImBin className='text-white'/></div>
         </div>
     </div>
 
@@ -90,8 +90,8 @@ const NotificationCard = () => {
         </div>
 
         <div className='flex flex-col gap-1 absolute w-full h-full right-[1px] justify-center items-end opacity-0 hover:opacity-100'>
-            <div className='bg-green-500 opacity-80 p-2 w-8 mr-4 text-center rounded-full flex items-center justify-center'><SiFiles className='text-white'/></div>
-            <div className='bg-red-700 opacity-80 p-2 w-8 mr-4 text-center rounded-full flex items-center justify-center'><ImBin className='text-white'/></div>
+            <div className='bg-green-500 opacity-80 p-2 w-8 text-center rounded-full flex items-center justify-center'><SiFiles className='text-white'/></div>
+            <div className='bg-red-700 opacity-80 p-2 w-8 text-center rounded-full flex items-center justify-center'><ImBin className='text-white'/></div>
         </div>
     </div>
 
@@ -110,8 +110,8 @@ const NotificationCard = () => {
         </div>
 
         <div className='flex flex-col gap-1 absolute w-full h-full right-[1px] justify-center items-end opacity-0 hover:opacity-100'>
-            <div className='bg-green-500 opacity-80 p-2 w-8 mr-4 text-center rounded-full flex items-center justify-center'><SiFiles className='text-white'/></div>
-            <div className='bg-red-700 opacity-80 p-2 w-8 mr-4 text-center rounded-full flex items-center justify-center'><ImBin className='text-white'/></div>
+            <div className='bg-green-500 opacity-80 p-2 w-8 text-center rounded-full flex items-center justify-center'><SiFiles className='text-white'/></div>
+            <div className='bg-red-700 opacity-80 p-2 w-8 text-center rounded-full flex items-center justify-center'><ImBin className='text-white'/></div>
         </div>
     </div>
     </>
