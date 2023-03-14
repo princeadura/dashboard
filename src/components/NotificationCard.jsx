@@ -19,7 +19,7 @@ const NotificationCard = () => {
             <img src={img_one} alt="" className='w-full object-cover bg-cover h-16 rounded-full'/>
         </div>
 
-        <div className='ml-6 hover:ml-0'>
+        <div className='ml-6 hover:ml-0 hover:mr-2'>
             <h3 className='roboto tracking-wide font-bold text-lg text-center'>Verdieu Steeve</h3>
             <p className='text-[#929292] roboto text-sm max-w-[180px]'>Just Started following you</p>
         </div>
@@ -40,7 +40,7 @@ const NotificationCard = () => {
             <img src={img_two} alt="" className='w-full object-cover bg-cover h-16 rounded-full'/>
         </div>
 
-        <div className='ml-6 hover:ml-0'>
+        <div className='ml-6 hover:ml-0 hover:mr-2'>
             <h3 className='roboto tracking-wide font-bold text-lg text-center'>Mike Miles</h3>
             <p className='text-[#929292] roboto text-sm max-w-[180px]'>Just liked your video story</p>
         </div>
@@ -60,7 +60,7 @@ const NotificationCard = () => {
             <img src={img_three} alt="" className='w-full object-cover bg-cover h-16 rounded-full'/>
         </div>
 
-        <div className='ml-6 hover:ml-0'>
+        <div className='ml-6 hover:ml-0 hover:mr-2'>
             <h3 className='roboto tracking-wide font-bold text-lg text-center'>Helen Saga</h3>
             <p className='text-[#929292] roboto text-sm max-w-[180px]'>Added you to a todos list for tommorow</p>
         </div>
@@ -80,7 +80,7 @@ const NotificationCard = () => {
             <img src={img_four} alt="" className='w-full object-cover bg-cover h-16 rounded-full'/>
         </div>
 
-        <div className='ml-6 hover:ml-0'>
+        <div className='ml-6 hover:ml-0 hover:mr-2'>
             <h3 className='roboto tracking-wide font-bold text-lg text-center'>Sarah Sharp</h3>
             <p className='text-[#929292] roboto text-sm max-w-[180px]'>Just commented on your last post</p>
         </div>
@@ -100,7 +100,7 @@ const NotificationCard = () => {
             <img src={img_five} alt="" className='w-full object-cover bg-cover h-16 rounded-full'/>
         </div>
 
-        <div className='ml-6 hover:ml-0'>
+        <div className='ml-6 hover:ml-0 hover:mr-2'>
             <h3 className='roboto tracking-wide font-bold text-lg text-center'>John Lee</h3>
             <p className='text-[#929292] roboto text-sm max-w-[180px]'>Just Started following you</p>
         </div>
