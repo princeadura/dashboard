@@ -15,25 +15,34 @@ const Dashboard_header = () => {
         <div>
             <h1 className='text-3xl font-bold logo-color cursor-pointer uppercase tracking-wider roboto'>MANDILAS</h1>
         </div>
-        <div className='hidden md:flex items-center gap-16 text-white font-bold roboto text-base'>
-          <div>
-          <Link to="/"><div>Welcome:Trillionx</div></Link>
-          <div className='bg-[#b18373] w-[15%] h-[3px] rounded-lg'></div>
+
+        <div className='hidden md:flex items-center gap-16 text-white font-bold roboto text-base relative'>
+          <div className='relative'>
+            <Link to="/"><div>Welcome:Trillionx</div></Link>
+            <div className='absolute w-[15%] hover:w-full h-6 top-0 flex items-end cursor-pointer'>
+              <div className='bg-[#b18373] w-full h-[3px] rounded-lg hover:w-full cursor-pointer transition-all ease-in'></div>
+            </div>
           </div>
 
-          <div>
+          <div className='relative'>
           <Link to="/pending"><div>Approval</div></Link>
-          <div className='bg-[#b18373] w-[25%] h-[3px] rounded-lg'></div>
+            <div className='absolute w-[25%] hover:w-full h-6 top-0 flex items-end cursor-pointer'>
+              <div className='bg-[#b18373] w-full h-[3px] rounded-lg hover:w-full cursor-pointer transition-all ease-in'></div>
+            </div>
           </div>
 
-          <div>
+          <div className='relative'>
           <Link to="/notification"><div>Notification</div></Link>
-          <div className='bg-[#b18373] w-[25%] h-[3px] rounded-lg'></div>
+            <div className='absolute w-[25%] hover:w-full h-6 top-0 flex items-end cursor-pointer'>
+              <div className='bg-[#b18373] w-full h-[3px] rounded-lg hover:w-full cursor-pointer transition-all ease-in'></div>
+            </div>
           </div>
 
-          <div>
+          <div className='relative'>
           <Link to="/settings"><div>Logout</div></Link>
-          <div className='bg-[#b18373] w-[25%] h-[3px] rounded-lg'></div>
+            <div className='absolute w-[25%] hover:w-full h-6 top-0 flex items-end cursor-pointer'>
+              <div className='bg-[#b18373] w-full h-[3px] rounded-lg hover:w-full cursor-pointer transition-all ease-in'></div>
+            </div>
           </div>
         </div>
         <div className='hidden md:flex'>
