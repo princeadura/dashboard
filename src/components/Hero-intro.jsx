@@ -6,17 +6,17 @@ const HeroIntro = () => {
         
       <div className='bg-white rounded-md p-5 hero-box'>
         <h3 className='text-sm users-color font-bold'>Total users</h3>
-        <h2 className='text-black text-3xl font-bold roboto py-2'>143,000</h2>
+        <h2 className='text-black text-3xl font-bold roboto py-2'>0</h2>
       </div>
 
       <div className='bg-white rounded-md p-5 hero-box'>
-        <h3 className='text-sm successful-color font-bold roboto'>Successful orders</h3>
-        <h2 className='text-black text-3xl font-bold roboto py-2'>13,400</h2>
+        <h3 className='text-sm successful-color font-bold roboto'>Successful Transaction</h3>
+        <h2 className='text-black text-3xl font-bold roboto py-2'>0</h2>
       </div>
 
       <div className='bg-white rounded-md p-5 hero-box'>
         <h3 className='text-sm pending-color font-bold roboto'>Pending issues</h3>
-        <h2 className='text-black text-3xl font-bold roboto py-2'>429</h2>
+        <h2 className='text-black text-3xl font-bold roboto py-2'>0</h2>
       </div>
         
     </div>  

@@ -18,7 +18,7 @@ const Dashboard_header = () => {
 
         <div className='hidden md:flex items-center gap-16 text-white font-bold roboto text-base relative'>
           <div className='relative'>
-            <Link to="/"><div>Welcome:Ridwan</div></Link>
+            <Link to="/"><div>Welcome:strapy</div></Link>
             <div className='absolute w-[15%] hover:w-full h-6 top-0 flex items-end cursor-pointer'>
               <div className='bg-[#b18373] w-full h-[3px] rounded-lg hover:w-full cursor-pointer transition-all ease-in'></div>
             </div>
@@ -67,7 +67,7 @@ const Dashboard_header = () => {
         <AiOutlineClose size={25} />
       </div>
 
-        <Link onClick={handleNav} to="/"><div className=''>Welcome:Trillion</div></Link>
+        <Link onClick={handleNav} to="/"><div className=''>Welcome:strapy</div></Link>
         <div className='w-2/6 h-[1px] bg-white rounded-full'></div>
         <Link onClick={handleNav} to="/pending"><div className='hover:text-[#b18373]'>Approval</div></Link>
         <Link onClick={handleNav} to="/notification"><div className='hover:text-[#b18373]'>Notification</div></Link>
