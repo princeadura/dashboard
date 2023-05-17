@@ -20,7 +20,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -30,7 +30,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -40,7 +40,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -50,7 +50,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -60,7 +60,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -70,7 +70,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -80,7 +80,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -90,7 +90,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -100,7 +100,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -110,7 +110,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -120,7 +120,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -130,7 +130,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -140,7 +140,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -150,7 +150,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -160,7 +160,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -170,7 +170,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -180,7 +180,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -190,7 +190,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -200,7 +200,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -210,7 +210,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -220,7 +220,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -230,7 +230,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -240,7 +240,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -250,7 +250,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -260,7 +260,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -270,7 +270,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -280,7 +280,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -290,7 +290,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -300,7 +300,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
@@ -310,7 +310,7 @@ const TransactionCard = () => {
                     <span className=''>AAC</span>
                     <span className=' text-left'>AUSENCO</span>
                     <div className='flex flex-row gap-8'>
-                        <span className=''>$1.38</span>
+                        <span className=''>₦1.38</span>
                         <span>+2.01</span>
                         <span>-0.36%</span>
                     </div>
