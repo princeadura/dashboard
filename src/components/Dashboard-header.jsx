@@ -13,12 +13,12 @@ const Dashboard_header = () => {
    <>
    <div className='w-full bg-[#202d40] flex justify-between items-center px-6 md:px-16 py-[30px]'>
         <div>
-            <h1 className='text-3xl font-bold logo-color cursor-pointer uppercase tracking-wider roboto'>MANDILAS</h1>
+            <h1 className='text-3xl font-bold logo-color cursor-pointer uppercase tracking-wider roboto'>STRAPY</h1>
         </div>
 
         <div className='hidden md:flex items-center gap-16 text-white font-bold roboto text-base relative'>
           <div className='relative'>
-            <Link to="/"><div>Welcome:Trillionx</div></Link>
+            <Link to="/"><div>Welcome:Ridwan</div></Link>
             <div className='absolute w-[15%] hover:w-full h-6 top-0 flex items-end cursor-pointer'>
               <div className='bg-[#b18373] w-full h-[3px] rounded-lg hover:w-full cursor-pointer transition-all ease-in'></div>
             </div>
