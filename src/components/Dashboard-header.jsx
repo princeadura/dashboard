@@ -58,7 +58,7 @@ const Dashboard_header = () => {
   <motion.div
   initial={{y:0}}
   whileInView={{y:0}}
-  transition={{duration:1, delay:1.0,}}
+  transition={{duration:1, delay:1}}
   // onClick={handleNav}
   className={nav? 'fixed bg-[#202d40] w-[100%] h-screen z-[20] top-0 md:hidden' : 'hidden'}>
     <div className='w-[95%] mx-auto flex flex-col gap-6 items-center justify-center pt-20 text-lg text-white uppercase'>

@@ -13,16 +13,16 @@ const SettingsComp = () => {
         </div>
 
         <div className='p-8 m-2 my-3 new-user-box rounded-lg relative text-white'>
-            <h2 className='text-center my-2 text-2xl font-bold'>Add New User</h2>
+            <h2 className='text-center my-2 text-2xl font-bold'>Create User</h2>
             <div className='absolute bottom-2 right-2 rounded-md cursor-pointer'>
                 <h3>Create User</h3>
             </div>  
         </div>
 
         <div className='p-8 m-2 my-3 new-user-box rounded-lg relative text-white'>
-            <h2 className='text-center my-2 text-2xl font-bold'>Add New Admin</h2>
+            <h2 className='text-center my-2 text-2xl font-bold'>Create Admin</h2>
             <div className='absolute bottom-2 right-2 rounded-md cursor-pointer'>
-                <h3>Create Admin</h3>
+                <h3>Delete Accounts</h3>
             </div>  
         </div>
             

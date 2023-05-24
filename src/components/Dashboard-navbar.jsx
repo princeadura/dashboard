@@ -11,6 +11,8 @@ const Dashboard_navbar = () => {
         <hr className='w-full'></hr>
         <Link to="/notification"><div>Notifications</div></Link>
         <hr className='w-full'></hr>
+        <Link to="/notification"><div>Users-details</div></Link>
+        <hr className='w-full'></hr>
         <Link to="/transactionHistory"><div>Transaction History</div></Link>
         <hr className='w-full'></hr>
         <Link to="/settings"><div>Settings</div></Link>
