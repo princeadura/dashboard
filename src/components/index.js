@@ -4,6 +4,7 @@ import Dashboard_navbar from "./Dashboard-navbar";
 import HeroIntro from "./Hero-intro";
 import Notification_box from "./Notification-box";
 import PendingComp from "./PendingComp";
+import login from "./login";
 
 
 export{
@@ -12,5 +13,6 @@ export{
     Dashboard_navbar,
     HeroIntro,
     Notification_box,
-    PendingComp
+    PendingComp,
+    login
 }
