@@ -13,7 +13,7 @@ const Dashboard_header = () => {
    <>
    <div className='w-full bg-[#202d40] flex justify-between items-center px-6 md:px-16 py-[30px]'>
         <div>
-            <h1 className='text-3xl font-bold logo-color cursor-pointer uppercase tracking-wider roboto'>MANDILAS</h1>
+            <h1 className='text-3xl font-bold logo-color cursor-pointer uppercase tracking-wider roboto'>Emotive</h1>
         </div>
 
         <div className='hidden md:flex items-center gap-16 text-white font-bold roboto text-base relative'>
